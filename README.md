@@ -1,5 +1,4 @@
 
-Here’s a template for your README.md file that you can modify based on your project details. This template assumes you are working on a MERN stack project that includes features like book listing, cart management, and payment integration using Razorpay.
 
 BooksCentral
 Overview
